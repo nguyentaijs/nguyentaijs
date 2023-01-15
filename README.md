@@ -64,3 +64,9 @@ Currently my main interest are
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" **alt="Yarn" width="40" height="40"/>
 </div>
+
+<h1></h1>
+
+### :fire: My stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyentaijs&theme=vue-dark&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
