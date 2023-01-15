@@ -20,7 +20,7 @@
 
 ### About Me
 
-I am a Full Stack Developer with years of experience in Java and React
+I am a Full Stack Developer with years of experience in clean Java and React
 
 Currently my main interest are
 - :link: Blockchain technology
