@@ -66,10 +66,11 @@ Currently my main interest are
 <h1></h1>
 
 ### :fire: My stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyentaijs&theme=vue-dark&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyentaijs&theme=vue-dark&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyentaijs&show_icons=true&theme=dark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
