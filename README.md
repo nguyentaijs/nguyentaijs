@@ -34,9 +34,8 @@ Currently my main interest are
 
 <h1></h1>
 
-### Languages and Tools
-
-<div>
+<div align="right">
+  <h3>Languages and Tools</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" alt="GoLang" width="40" height="40"/>&nbsp;
@@ -58,8 +57,7 @@ Currently my main interest are
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MsSQL"  alt="MsSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat" **alt="Tomcat" width="40" height="40"/>
-  <br/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat" **alt="Tomcat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" **alt="Yarn" width="40" height="40"/>
