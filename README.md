@@ -27,7 +27,7 @@ Currently my main interest are
 - :date: Project managing
 - :hammer_and_wrench: System design
 - :chart_with_upwards_trend: UI/UX design
-- :military_helmet: Working myself to be an One Man Army
+- :military_helmet: Working myself to be a One-Man Army
 
 [![Linkedin Badge](https://img.shields.io/badge/-nguyentaijs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentaijs)
 [![Google Badge](https://img.shields.io/badge/-nguyentaijs-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyentaijs@gmail.com)
